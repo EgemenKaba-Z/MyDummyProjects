@@ -1,0 +1,3 @@
+[submodule "IAmALibrary"]
+	path = IAmALibrary
+	url = https://github.com/EgemenKaba-Z/MyDummyLibrary.git
